@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-05-09 09:50:00-0400
+date: 2023-10-05 14:50:00-0400
 inline: true
 related_posts: false
 ---
 
-Attended at Cyber-Physical Systems and Internet-of-Things Week 2023 in San Antonio, Texas USA. :smile:
+Attended and presented at 23rd International Conference on Runtime Verification at Session 20: Runtime Monitoring Video Streams and Perception, in Thessaloniki, Greece. :smile:
