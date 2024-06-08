@@ -2,24 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.16personalities.com/intp-personality'>INTP</a>. <a href='https://evangelion.fandom.com/wiki/Main_Page'>EVA Fan</a>. Chief Shovel Officer (CSO) of <a href='https://jupiterflies.github.io/'>Jupiter</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>xia.wang@vanderbilt.edu</p>
+    <p>1025 16th Ave S</p>
+    <p>Nashville, TN 37212</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! My name is Xia (Summer) Wang (王夏), and I am currently pursuing a Ph.D. in Computer Science at [Vanderbilt University](https://www.vanderbilt.edu/) under the supervision of Professor [Jonathan Sprinkle](https://scholar.google.com/citations?user=HNJQS0gAAAAJ&hl=en). I am part of the Compositional Systems Lab (CSL), which focuses significantly on the intersection of control, operation, and sensing with computing.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests include: Cyber-Physical Systems (CPS), Autonomous Vehicles, Machine Learning, Deep Learning, Data Mining, and Formal Methods. I am honored to be a [student researcher](https://circles-consortium.github.io/about.html) on the [CIRCLES](https://circles-consortium.github.io/) project and participated in the experiment involving [100 AI-powered cruise control cars](https://engineering.vanderbilt.edu/2022/11/23/ai-powered-cruise-control-system-may-pave-the-way-to-fuel-efficiency-and-traffic-relief/). Additionally, I designed user cases and developed functions for [CPS-VO](https://cps-vo.org/) and [S&CC-VO](https://sccvo.org/), aiming at fostering collaboration among CPS professionals in academia, government, and industry.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I earned my bachelor's and master's degrees (B.E. in Information System and Information Management and M.S. in Management Science and Engineering) from Shanghai University of Finance and Economics in Shanghai, China. I also have eight years of industry experience in recommender system algorithm development, auditing, and banking.
